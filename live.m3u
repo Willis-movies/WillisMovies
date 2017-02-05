@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,USA_WWE_HD
+#EXTINF:-1,WWE_HD
 http://ns3056752.ip-137-74-200.eu:8000/live/moroco/moroco/5093.ts
 #EXTINF:-1,USA_WGN
 http://ns3056752.ip-137-74-200.eu:8000/live/moroco/moroco/5080.ts
